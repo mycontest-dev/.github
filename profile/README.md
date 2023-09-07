@@ -27,3 +27,8 @@ If you have any questions, suggestions, or need assistance, feel free to reach o
 
 This repository is licensed under the [MIT License](LICENSE).
 
+<style>
+    body {
+        font-family: 'Your Custom Font', sans-serif; /* Replace 'Your Custom Font' with the actual font family name. */
+    }
+</style>
