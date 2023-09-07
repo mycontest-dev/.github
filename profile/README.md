@@ -1,6 +1,6 @@
 # Welcome to mycontest.dev
 
-![Your Organization Logo]([[link-to-your-logo.png](https://api.mycontest.dev/avatar/favicon.png)]())
+![Your Organization Logo](https://api.mycontest.dev/avatar/favicon.png)
 
 This is the official GitHub repository for mycontest.dev, your go-to platform for exciting contests and competitions. We're passionate about fostering creativity and innovation among our community members.
 
