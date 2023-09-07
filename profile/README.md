@@ -7,7 +7,7 @@ This is the official GitHub repository for mycontest.dev, your go-to platform fo
 ## About Us
 
 - **Website**: [mycontest.dev](https://www.mycontest.dev)
-- **Contact**: [contact@mycontest.dev](mailto:contact@mycontest.dev)
+- **Contact**: [admin@mycontest.dev](mailto:admin@mycontest.dev)
 
 ## Quick Links
 
@@ -21,14 +21,4 @@ We welcome contributors and volunteers who share our passion for promoting learn
 
 ## Support
 
-If you have any questions, suggestions, or need assistance, feel free to reach out to us at [contact@mycontest.dev](mailto:contact@mycontest.dev).
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
-<style>
-    body {
-        font-family: 'Your Custom Font', sans-serif; /* Replace 'Your Custom Font' with the actual font family name. */
-    }
-</style>
+If you have any questions, suggestions, or need assistance, feel free to reach out to us at [support@mycontest.dev](mailto:support@mycontest.dev).
